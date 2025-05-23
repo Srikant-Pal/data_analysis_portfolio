@@ -1,0 +1,1 @@
+# Design-Analysis-for-Snitch-Retail-Company

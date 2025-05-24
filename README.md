@@ -1,1 +1,1 @@
-# Design-Analysis-for-Snitch-Retail-Company
+Srikant Pal - Data Analysis Portfolio

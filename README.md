@@ -1,6 +1,7 @@
 **Srikant Pal - Data Analysis Portfolio**
 
 **About**
+
 Hi, i am Srikant a data enthusiast learning through real world projects.
 This repo reflects my journey toward a career data/business analysis.
 Each project here focuses on solving business problems using data,with tools like Python,SQL,Power BI.

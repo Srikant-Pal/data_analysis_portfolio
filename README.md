@@ -1,10 +1,12 @@
 **Srikant Pal - Data Analysis Portfolio**
+
 **About**
 Hi, i am Srikant a data enthusiast learning through real world projects.
 This repo reflects my journey toward a career data/business analysis.
 Each project here focuses on solving business problems using data,with tools like Python,SQL,Power BI.
 
 **Portfolio Projects**
+
 Below are some of the data analytics projects i have worked on,showcasing my skills in Python,Pandas,SQL,DataVisualization,Power BI and problem solving through data.
 
 ### 1.Design Analysis (Snitch Retail Company)
@@ -24,7 +26,9 @@ The project includes the following steps:importing libraries, data loading, data
 visualized using bar charts to highlight top performing feature in each category, time series analysis to show upcoming trends,growth and declining product performance,visualization using line graphs to display trends clearly.
 
 **Skills** : Data cleaning, Data analysis,Descriptive analysis,Time Series analysis,Data visualization.
+
 **Technology** : Python,Pandas,Numpy,Seaborn,Matplotlib.
+
 **Insights** : By the help of this analysis the Snitch company will get the idea of upcoming trends that what to produce more in next season,customers likes and dislikes,
 top features which customers care more when they buy any products.
 

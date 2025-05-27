@@ -10,7 +10,7 @@ Each project here focuses on solving business problems using data,with tools lik
 
 Below are some of the data analytics projects i have worked on,showcasing my skills in Python,Pandas,SQL,DataVisualization,Power BI and problem solving through data.
 
-### 1.Design Analysis (Snitch Retail Company)
+### 1.Design Analysis (Apparel Retail Company)
 
 **Goal** : The goal is to analyze the upcoming trends and identify which product features customers value the most.The aim is to support decisions on design, inventory, and product development based on these insights.
 **Problem Context** : In the fashion industry, customer attraction, retention, and segmentation are key to business growth. If a company is not aligned with customer preferences, it risks losing revenue. Snitch wants to understand:

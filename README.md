@@ -48,6 +48,20 @@ So the goal is to analyze the customer behaviour,key factors or metrics that lea
 **Description** : This dataset is all about the unique customers demographic info (like gender,senior citizens status),tenure with the company,type of internet service they use, contract and payment methods, as well as monthly and total charges they have done yet.
 The most important column is 'churn' which indicates whether the customer has left the service or not,this is the target variable i aim to analyze.
 
+The project includes the following steps:importing libraries,data loading,data cleaning and preprocessing,changed the column type,removed the rows where data was totally missing,EDA ( exploratory data analysis).
+
+During the analysis, I explored how churn is related to different features such as tenure,contract type,payment method and internet service. I used bar charts and pie charts to clearly show which features have the highest churn rates and suggesting areas for improvement.
+
+**Skills** : Data Analysis,Descriptive Analysis,Data visualization.
+
+**Technology** : Python,Pandas,Seaborn,Matplotlib
+
+**Insights** : By the help of this analysis companies will understand their customers very well
+
+
+
+
+
 
 
 

@@ -34,3 +34,26 @@ visualized using bar charts to highlight top performing feature in each category
 top features which customers care more when they buy any products.
 
 
+
+
+### 2.Customer Churn Analysis (Telco Dataset)
+
+**Goal** : In any subscription-based business, like telecom companies customer retention is a big challenge.
+Customer churn happens when customers or subscribers decides to stop using a service.
+I worked on a customer churn analysis project using a telecom dataset. The idea came from the real world problem that telecom companies face - customers switching from one services to other due to better price options,network issues,technical support from companies,dissatisfaction.
+So the goal is to analyze the customer behaviour,key factors or metrics that lead to churn.
+
+**Problem Context** : Its very important to understand our customers,their needs,requirements and by doing analysis why customers leave is important because acquiring new customers is costlier than retaining existing one. So if companies can identify the key reasons for churn in advance-- such as pricing,service quality or contract issues,it will help them to retain by giving offers or discounts,improving services.
+
+**Description** : This dataset is all about the unique customers demographic info (like gender,senior citizens status),tenure with the company,type of internet service they use, contract and payment methods, as well as monthly and total charges they have done yet.
+The most important column is 'churn' which indicates whether the customer has left the service or not,this is the target variable i aim to analyze.
+
+
+
+
+
+
+
+
+
+

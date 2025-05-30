@@ -36,7 +36,7 @@ top features which customers care more when they buy any products.
 
 
 
-### 2.Customer Churn Analysis (Telco Dataset)
+### 2.Customer Churn Analysis (telecom dataset)
 
 **Goal** : In any subscription-based business, like telecom companies customer retention is a big challenge.
 Customer churn happens when customers or subscribers decides to stop using a service.

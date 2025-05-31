@@ -60,7 +60,19 @@ During the analysis, I explored how churn is related to different features such 
 
 
 
-### 3.Madhav Ecommerce Sales Dashboard (Power BI)
+### 3.Ecommerce Store Analysis
+
+This project is an interactive Power BI dashboard for analyzing e-commerce sales data.
+
+**Key Features** : 
+. Visualizes important business metrics like total sales,profit,quantity sold and average order value(AOV).
+. Shows Sales and profit trends by months,sub-category,state and product category.
+. Highlighted top customers who has done highest sales,so that we can give discount or offers to them.
+. 
+
+
+
+
 
 
 

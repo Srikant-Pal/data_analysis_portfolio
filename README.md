@@ -56,7 +56,7 @@ During the analysis, I explored how churn is related to different features such 
 
 **Technology** : Python,Pandas,Seaborn,Matplotlib
 
-**Insights** : By the help of this analysis,companies can understand which type of customers are more likely to churn.
+**Insights** : By the help of this analysis,companies can understand which type of customers are more likely to churn,so that they can make plan to retain them.
 
 
 

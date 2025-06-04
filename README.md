@@ -68,7 +68,7 @@ This project is an interactive Power BI dashboard for analyzing e-commerce sales
 . Visualizes important business metrics like total sales,profit,quantity sold and average order value(AOV).
 . Shows Sales and profit trends by months,sub-category,state and product category.
 . Highlighted top customers who has done highest sales,so that we can give discount or offers to them.
-. 
+. We will share this report with stakeholders,managers to take decisions on this insights.
 
 
 
